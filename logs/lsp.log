@@ -1,0 +1,88 @@
+29-02-2024 10:53:08.389 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:08.389 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:08.389 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:08.389 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:08.389 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:08.389 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:08.453 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:08.453 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:08.468 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:08.468 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:08.468 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:08.468 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:08.468 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:08.468 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:08.498 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:08.499 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:08.505 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:08.505 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:08.505 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:08.505 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:08.505 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:08.505 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:08.509 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:08.509 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:08.516 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:08.516 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:08.516 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:08.516 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:08.516 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:08.516 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:08.518 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:08.518 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:08.524 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:08.524 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:08.524 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:08.524 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:08.524 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:08.524 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:08.526 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:08.526 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:09.492 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:09.492 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:09.492 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:09.492 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:09.492 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:09.492 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:09.630 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:09.630 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:09.656 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:09.656 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:09.656 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:09.656 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:09.656 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:09.656 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:09.665 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:09.665 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:09.672 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:09.672 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:09.672 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:09.672 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:09.672 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:09.672 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:09.680 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:09.680 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:09.687 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:09.687 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:09.687 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:09.687 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:09.687 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:09.687 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:09.718 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:09.718 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:09.725 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:09.725 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:09.725 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:09.726 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:09.726 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:09.726 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:09.727 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:09.727 [Gauge] [ERROR] Specs directory specs does not exists.
+29-02-2024 10:53:24.080 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-02-2024 10:53:24.080 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-02-2024 10:53:24.080 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-02-2024 10:53:24.080 [Gauge] [ERROR] Unable to add directory /Users/scott/code/local/pwa-temp/specs to file watcher: lstat /Users/scott/code/local/pwa-temp/specs: no such file or directory
+29-02-2024 10:53:24.080 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+29-02-2024 10:53:24.080 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+29-02-2024 10:53:24.083 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+29-02-2024 10:53:24.083 [Gauge] [ERROR] Specs directory specs does not exists.
